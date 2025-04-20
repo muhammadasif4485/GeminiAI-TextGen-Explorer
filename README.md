@@ -109,7 +109,7 @@ You can generate your API key by signing up for Google AI Studio or Developer Co
 
 ## 👤 Author
 
-**Muhammad Asif** – Machine Learning Engineer at Google Cloud  
+**Muhammad Asif** – 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-asif-h-mio-amore44/)
 
 ---
