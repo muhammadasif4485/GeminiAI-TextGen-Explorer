@@ -8,11 +8,7 @@ This project is great for:
 - Content creators looking for creative writing assistance.
 
 ---
-📘 **Colab Notebook (View Only)**  
-Explore the GeminiAI TextGen Explorer notebook here:  
-[📎 Open in Google Colab](https://colab.research.google.com/drive/1nBMaI9yueyYpaW7GKnJImPsKKquLSaan?usp=sharing)
 
----
 ## 🔍 What is it?
 
 **GeminiAI TextGen Explorer** connects your Colab notebook to Google’s **Generative AI API**, specifically using the model named `"gemini-2.0-flash-exp"`. With just a few lines of code, you can input a prompt and get back detailed, high-quality AI-generated text.
@@ -81,6 +77,10 @@ Explore the GeminiAI TextGen Explorer notebook here:
 > Imran Khan is a former cricketer and politician who served as the Prime Minister of Pakistan from 2018 to 2022. He led Pakistan to its only Cricket World Cup win in 1992, founded PTI in 1996, and has been a key figure in Pakistani politics ever since...
 
 *(See the notebook for full output and detailed explanation.)*
+---
+📘 **Colab Notebook (View Only)**  
+Explore the GeminiAI TextGen Explorer notebook here:  
+[📎 Open in Google Colab](https://colab.research.google.com/drive/1nBMaI9yueyYpaW7GKnJImPsKKquLSaan?usp=sharing)
 
 ---
 
