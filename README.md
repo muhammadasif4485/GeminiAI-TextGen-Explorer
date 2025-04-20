@@ -1,7 +1,3 @@
-Awesome! Here's the final version of your `README.md` with your LinkedIn profile added at the end:
-
----
-
 # GeminiAI-TextGen-Explorer
 
 **GeminiAI TextGen Explorer** is a beginner-friendly and practical project built using Python and Google Colab. It demonstrates how to use **Google's Gemini 2.0 Flash Exp** generative AI model to create smart, context-aware text content from simple prompts.
